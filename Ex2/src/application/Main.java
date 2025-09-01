@@ -9,6 +9,7 @@ public class Main {
         System.out.print("Digite um número: ");
         int number = sc.nextInt();
 
+
         if(number % 2 == 0){
             System.out.println("O número " + number + " é par");
         } else{
